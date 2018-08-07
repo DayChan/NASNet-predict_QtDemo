@@ -1,6 +1,5 @@
 # PYQT DEMO For Picture Predict 
 
-------
 This demo can use for any net by keras not only NASNet
 Our weight for fabric classifying demo will not be uploaded here.
 
