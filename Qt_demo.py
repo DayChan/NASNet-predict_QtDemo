@@ -1,14 +1,5 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-
-'''
-Created on 2018年1月29日
-@author: Irony."[讽刺]
-@site: http://alyl.vip, http://orzorz.vip, https://coding.net/u/892768447, https://github.com/892768447
-@email: 892768447@qq.com
-@file: OpencvWidget
-@description: 
-'''
 import sys
 from PIL import Image
 from PyQt5.QtCore import *
